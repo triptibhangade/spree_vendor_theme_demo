@@ -51,4 +51,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'spree', '~> 3.2.7'
 gem 'spree_auth_devise', '~> 3.5'
 gem 'spree_gateway', '~> 3.4'
-gem 'spree_multi_vendor', github: 'spree-contrib/spree_multi_vendor'
+gem 'spree_multi_vendor', github: 'spree-contrib/spree_multi_vendor' 
+gem 'vinsol_spree_themes'
+gem 'sprockets-helpers', '~> 1.2.1'
