@@ -1,0 +1,15 @@
+current directory: /home/user20/work/demo/spree_demo/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/home/user20/.rvm/rubies/ruby-2.4.2/bin/ruby -I /home/user20/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20191120-12946-1hd3l6p.rb extconf.rb
+creating Makefile
+
+current directory: /home/user20/work/demo/spree_demo/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/user20/work/demo/spree_demo/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/user20/work/demo/spree_demo/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20191120-12946-m760ur

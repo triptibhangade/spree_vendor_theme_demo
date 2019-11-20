@@ -1,0 +1,15 @@
+current directory: /home/user20/work/demo/spree_demo/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/home/user20/.rvm/rubies/ruby-2.4.2/bin/ruby -I /home/user20/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20191120-12946-zxunnt.rb extconf.rb
+creating Makefile
+
+current directory: /home/user20/work/demo/spree_demo/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/user20/work/demo/spree_demo/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/user20/work/demo/spree_demo/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20191120-12946-1p9y403/skiptrace/internal
