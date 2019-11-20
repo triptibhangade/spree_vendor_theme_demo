@@ -1,7 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-3c233e549a72ee359e2a53bc2bd3e2ed8dad168b refs/heads/feature/oms
-0e405aa636fafcffaaf86597fdae148192400aa3 refs/heads/feature/order-splitter
-e2c1f5dc72883f2f08977a4f30796335c5457b3b refs/heads/hotfix/product-properties
-0e8ec498dfa17a0155d2df02d41497a50b7eb361 refs/heads/master
-bf9f5638b950b6552517106ad2b904f1af980282 refs/heads/updating_extension_to_rails_6_spree_4
-96379e31f0dcec2531727b1a200539ca76b0df10 refs/tags/v1.4.0
