@@ -17,6 +17,7 @@
 !/log/.keep
 !/tmp/.keep
 /public/*
+!/public/vinsol_spree_themes
 # Ignore Byebug command history file.
 .byebug_history
 /vendor/bundle
